@@ -1,0 +1,15 @@
+References
+2D Ultrasound Motion Tracking Using Transverse Oscillation Phase Estimation
+[1] J. A. Jensen, “A new estimator for vector velocity estimation [medical ultrasonics],” IEEE Trans. Ultrason. Ferroelectr. Freq. Control, vol. 48, no. 4, pp. 886–894, Jul. 2001, doi: 10.1109/58.935705.
+[2] M. E. Aderson, “Multi-dimensional velocity estimation with ultrasound using spatial quadrature,” IEEE Trans. Ultrason. Ferroelectr. Freq. Control, vol. 45, no. 3, pp. 852–861, May 1998, doi: 10.1109/58.677757.
+[3] J. Udesen and J. A. Jensen, “Investigation of transverse oscillation method,” IEEE Trans. Ultrason. Ferroelectr. Freq. Control, vol. 53, no. 5, pp. 959–971, May 2006, doi: 10.1109/TUFFC.2006.1632686.
+[4] A. Swillens, P. Segers, H. Torp, and L. Lovstakken, “Two-dimensional blood velocity estimation with ultrasound: speckle tracking versus crossed-beam vector Doppler based on flow simulations in a carotid bifurcation model,” IEEE Trans. Ultrason. Ferroelectr. Freq. Control, vol. 57, no. 2, pp. 327–339, Feb. 2010, doi: 10.1109/TUFFC.2010.1413.
+[5] M. O’Donnell, A. R. Skovoroda, B. M. Shapo, and S. Y. Emelianov, “Internal displacement and strain imaging using ultrasonic speckle tracking,” IEEE Trans. Ultrason. Ferroelectr. Freq. Control, vol. 41, no. 3, pp. 314–325, May 1994, doi: 10.1109/58.285465.
+[6] J. Luo and E. E. Konofagou, “A fast normalized cross-correlation calculation method for motion estimation,” IEEE Trans. Ultrason. Ferroelectr. Freq. Control, vol. 57, no. 6, pp. 1347–1357, Jun. 2010, doi: 10.1109/TUFFC.2010.1554.
+[7] R. G. P. Lopata, M. M. Nillesen, H. H. G. Hansen, I. H. Gerrits, J. M. Thijssen, and C. L. de Korte, “Performance Evaluation of Methods for Two-Dimensional Displacement and Strain Estimation Using Ultrasound Radio Frequency Data,” Ultrasound Med. Biol., vol. 35, no. 5, pp. 796–812, May 2009, doi: 10.1016/j.ultrasmedbio.2008.11.002.
+[8] M. Tanter and M. Fink, “Ultrafast imaging in biomedical ultrasound,” IEEE Trans. Ultrason. Ferroelectr. Freq. Control, vol. 61, no. 1, pp. 102–119, Jan. 2014, doi: 10.1109/TUFFC.2014.2882.
+[9] M. Lenge, A. Ramalli, P. Tortoli, C. Cachard, and H. Liebgott, “Plane-wave transverse oscillation for high-frame-rate 2-D vector flow imaging,” IEEE Trans. Ultrason. Ferroelectr. Freq. Control, vol. 62, no. 12, pp. 2126–2137, Dec. 2015, doi: 10.1109/TUFFC.2015.007320.
+[10] M. C. Pastore et al., “Speckle Tracking Echocardiography: Early Predictor of Diagnosis and Prognosis in Coronary Artery Disease,” BioMed Res. Int., vol. 2021, no. 1, p. 6685378, 2021, doi: 10.1155/2021/6685378.
+[11] J. Jensen, C. A. Villagómez Hoyos, M. B. Stuart, C. Ewertsen, M. B. Nielsen, and J. A. Jensen, “Fast Plane Wave 2-D Vector Flow Imaging Using Transverse Oscillation and Directional Beamforming,” IEEE Trans. Ultrason. Ferroelectr. Freq. Control, vol. 64, no. 7, pp. 1050–1062, Jul. 2017, doi: 10.1109/TUFFC.2017.2693403.
+[12] D. Garcia, “Make the most of MUST, an open-source Matlab UltraSound Toolbox,” in 2021 IEEE International Ultrasonics Symposium (IUS), Xi’an, China: IEEE, Sep. 2021, pp. 1–4, doi: 10.1109/IUS52206.2021.9593605.
+Reference list prepared for research poster use
